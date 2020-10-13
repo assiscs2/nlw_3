@@ -1,27 +1,23 @@
- * {
-     margin: 0;
-     padding: 0;
- }
- 
- body {
-    height: 100vh;
-    color: white;
- }
+* {
+  margin: 0;
+  padding: 0;
+}
 
- body, input, button, textarea {
-    font-size: 18px;
-    line-height: 1;
-    font-weight: 400;
-    font-family: 'Nunito', sans-serif;
+body {
+  height: 100vh;
+  color: white;
+}
 
-    /*(Forma diferente de escrever as linhas 12,13,14 e 15)= font: 400 18px/1 'Nunito', sans-serif;*/
+body,
+input,
+button,
+textarea {
+  font-size: 18px;
+  line-height: 1;
+  font-weight: 400;
+  font-family: "Nunito", sans-serif;
 
- }
+  /*(Forma diferente de escrever as linhas 12,13,14 e 15)= font: 400 18px/1 'Nunito', sans-serif;*/
+}
 
- #page-landing {
-    background: linear-gradient(329.54deg, #29B6D1 0% , #00c7c7 100%);
-
-    text-align: center;
-    min-height: 100vh;
-
- }
+/* animações */
