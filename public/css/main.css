@@ -8,6 +8,10 @@ body {
   color: white;
 }
 
+:root {
+    font-size:62.5%;
+}
+
 body,
 input,
 button,
